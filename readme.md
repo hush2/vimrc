@@ -1,6 +1,9 @@
 ## My Vim settings ##
 
+
 ### Plugins Used ###
+
+- Pathogen
 - delimitMate
 - matchit
 - MatchTag

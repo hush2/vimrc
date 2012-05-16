@@ -59,5 +59,5 @@ let g:SuperTabMappingBackward = '<nop>'
 au BufEnter * map <f4> <nop>
 
 "-- jump to $var
-noremap L f$
-noremap H F$
+noremap L f$l
+noremap H F$;l

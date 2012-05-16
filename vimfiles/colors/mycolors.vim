@@ -6,7 +6,7 @@ if version > 580
  syntax reset
  endif
 endif
-let colors_name = "jeff"
+let colors_name = "mycolors"
 
 :hi Normal gui=none guifg=white guibg=#1f3048
 :hi Cursor guibg=white gui=none guifg=#004080
